@@ -1,0 +1,12 @@
+/home/elf/fly_demo1/build/CMakeFiles/nn_process.dir
+/home/elf/fly_demo1/build/CMakeFiles/rknn_engine.dir
+/home/elf/fly_demo1/build/CMakeFiles/yolov8_lib.dir
+/home/elf/fly_demo1/build/CMakeFiles/draw_lib.dir
+/home/elf/fly_demo1/build/CMakeFiles/can_lib.dir
+/home/elf/fly_demo1/build/CMakeFiles/uart_lib.dir
+/home/elf/fly_demo1/build/CMakeFiles/streamer_lib.dir
+/home/elf/fly_demo1/build/CMakeFiles/bytetrack_lib.dir
+/home/elf/fly_demo1/build/CMakeFiles/yolo11_thread_pool.dir
+/home/elf/fly_demo1/build/CMakeFiles/clear.dir
+/home/elf/fly_demo1/build/CMakeFiles/edit_cache.dir
+/home/elf/fly_demo1/build/CMakeFiles/rebuild_cache.dir

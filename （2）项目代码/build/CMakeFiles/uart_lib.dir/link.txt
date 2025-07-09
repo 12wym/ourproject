@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libuart_lib.so -o libuart_lib.so CMakeFiles/uart_lib.dir/src/uart/uart.cpp.o   -L/usr/local/ffmpeg/lib 

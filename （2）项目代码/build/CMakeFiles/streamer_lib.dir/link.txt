@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libstreamer_lib.so -o libstreamer_lib.so CMakeFiles/streamer_lib.dir/src/streamer/streamer.cpp.o   -L/usr/local/ffmpeg/lib  -Wl,-rpath,/usr/local/ffmpeg/lib -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
